@@ -12,5 +12,7 @@
     "url": "https://github.com/jonbri/seolaffub/issues"
   },
   "homepage": "https://github.com/jonbri/seolaffub#readme",
-  "bin": "./index.js"
+  "bin": {
+    "seolaffub": "index.js"
+  }
 }
