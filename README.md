@@ -2,6 +2,8 @@
 
 Opposite of [buffaloes](https://github.com/jonbri/buffaloes)
 
+[NPM](https://www.npmjs.com/package/seolaffub)
+
 ## Install
 
 ```sh
