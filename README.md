@@ -16,4 +16,3 @@ npm install --global seolaffub
 seolaffub 3 # will output "olaffub olaffub olaffub"
 ```
 
-test
